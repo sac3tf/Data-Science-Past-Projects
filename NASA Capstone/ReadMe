@@ -1,1 +1,3 @@
-This folder holds work related to my capstone project, which was completed for NASA.
+This folder holds work related to my capstone project, which was completed for NASA. 
+The data is stored in .txt files and the code is in capston.py.
+This project was about creating an automated process for identifying spectral lines in Titan's atmosphere. 
